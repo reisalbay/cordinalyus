@@ -1,5 +1,5 @@
 window.SITE_CONFIG = {
-  companyName: 'Cordinalyus Rent Filo',
+  companyName: 'Garent Rent Filo',
   phoneDisplay: '0501 592 61 05',
   phoneRaw: '95015926105',
   whatsappRaw: '905305147143',
